@@ -569,7 +569,7 @@ footer p {
         flex-direction: column;
         text-align: center;
     } 
-    .home{padding-bottom: 160px; padding-top: 400px;}
+    .home{padding-bottom: 460px; padding-top: 400px; border-radius:20px;}
     .home-image img,
     .about-image img {
         width: 220px;
