@@ -559,7 +559,7 @@ footer p {
     .navbar {
         flex-direction: column;
         gap: 15px;
-    }
+     }
     
     section {
         padding: 70px 5%;
@@ -568,7 +568,8 @@ footer p {
     .about {
         flex-direction: column;
         text-align: center;
-    } .home{padding-bottom: 160px;}
+    } 
+    .home{padding-bottom: 160px; padding-top: 400px;}
     .home-image img,
     .about-image img {
         width: 220px;
